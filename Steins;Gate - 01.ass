@@ -277,19 +277,19 @@ Dialogue: 0,0:10:06.82,0:10:10.03,Default,,0,0,0,,D'un coup, tout le monde\Na di
 Dialogue: 0,0:10:10.15,0:10:12.07,Default,,0,0,0,,Ah bon ?\N- Ça suffit !
 Dialogue: 0,0:10:12.24,0:10:16.49,Default,,0,0,0,,Tu l'as vu aussi, pas vrai ?\N- Non.
 Dialogue: 0,0:10:16.95,0:10:18.74,Default,,0,0,0,,Qu'est-ce que tu dis ?
-Dialogue: 0,0:10:47.81,0:10:53.07,Default,,0,0,0,,Pour toi, des milliards et des milliards\Nde battements de cœur
-Dialogue: 0,0:10:53.19,0:10:59.45,Default,,0,0,0,,Ne sont pas plus\Nqu'un battement de cils.
-Dialogue: 0,0:10:59.70,0:11:04.75,Default,,0,0,0,,Bien que je sois prisonnière du passé\Net que je déplore le futur,
-Dialogue: 0,0:11:04.91,0:11:10.67,Default,,0,0,0,,l'inévitable n'autorise pas\Nla moindre petite erreur de calcul.
-Dialogue: 0,0:11:10.84,0:11:16.76,Default,,0,0,0,,Nos rêves et avenirs qui\Nnaissent et grandissent dans l'infini
-Dialogue: 0,0:11:16.93,0:11:22.52,Default,,0,0,0,,nous autorisent à la vanité,
-Dialogue: 0,0:11:22.89,0:11:28.73,Default,,0,0,0,,tandis que nos deux mains\Nnous ramènent à nos limites.
-Dialogue: 0,0:11:28.98,0:11:33.40,Default,,0,0,0,,Tout cela mène à un accord cruel\Net un choix à faire.
-Dialogue: 0,0:11:33.57,0:11:35.53,Default,,0,0,0,,Hacking to the Gate
-Dialogue: 0,0:11:36.03,0:11:42.58,Default,,0,0,0,,À présent, chaque seconde qui passe,\Nje traverserai les lignes d'univers,
-Dialogue: 0,0:11:42.79,0:11:47.87,Default,,0,0,0,,pour protéger le sourire sur ton visage.
-Dialogue: 0,0:11:48.04,0:11:54.42,Default,,0,0,0,,Puis, à nouveau, dans une boucle\Ntemporelle sans tristesse,
-Dialogue: 0,0:11:54.92,0:12:01.22,Default,,0,0,0,,je serai engloutie\Ncomme une observatrice solitaire.
+Dialogue: 0,0:10:47.81,0:10:53.07,op trans,,0,0,0,,Pour toi, des milliards et des milliards\Nde battements de cœur
+Dialogue: 0,0:10:53.19,0:10:59.45,op trans,,0,0,0,,Ne sont pas plus\Nqu'un battement de cils.
+Dialogue: 0,0:10:59.70,0:11:04.75,op trans,,0,0,0,,Bien que je sois prisonnière du passé\Net que je déplore le futur,
+Dialogue: 0,0:11:04.91,0:11:10.67,op trans,,0,0,0,,l'inévitable n'autorise pas\Nla moindre petite erreur de calcul.
+Dialogue: 0,0:11:10.84,0:11:16.76,op trans,,0,0,0,,Nos rêves et avenirs qui\Nnaissent et grandissent dans l'infini
+Dialogue: 0,0:11:16.93,0:11:22.52,op trans,,0,0,0,,nous autorisent à la vanité,
+Dialogue: 0,0:11:22.89,0:11:28.73,op trans,,0,0,0,,tandis que nos deux mains\Nnous ramènent à nos limites.
+Dialogue: 0,0:11:28.98,0:11:33.40,op trans,,0,0,0,,Tout cela mène à un accord cruel\Net un choix à faire.
+Dialogue: 0,0:11:33.57,0:11:35.53,op trans,,0,0,0,,Hacking to the Gate
+Dialogue: 0,0:11:36.03,0:11:42.58,op trans,,0,0,0,,À présent, chaque seconde qui passe,\Nje traverserai les lignes d'univers,
+Dialogue: 0,0:11:42.79,0:11:47.87,op trans,,0,0,0,,pour protéger le sourire sur ton visage.
+Dialogue: 0,0:11:48.04,0:11:54.42,op trans,,0,0,0,,Puis, à nouveau, dans une boucle\Ntemporelle sans tristesse,
+Dialogue: 0,0:11:54.92,0:12:01.22,op trans,,0,0,0,,je serai engloutie\Ncomme une observatrice solitaire.
 Dialogue: 0,0:12:04.43,0:12:08.73,Default,,0,0,0,,Hé, toi là-bas.\NTu nous vois ?
 Dialogue: 0,0:12:09.19,0:12:11.02,Default,,0,0,0,,Pourquoi tu ne réponds pas ?
 Dialogue: 0,0:12:11.19,0:12:14.86,Default,,0,0,0,,Je te cause, tête de nœud\Nde l'autre côté de l'écran.
