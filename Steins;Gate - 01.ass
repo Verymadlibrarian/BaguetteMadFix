@@ -14,9 +14,9 @@ Video File: G:/SteinsGate/01/sg01-video-encoded (1) (1).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 192
-Active Line: 200
-Video Position: 9515
+Scroll Position: 210
+Active Line: 224
+Video Position: 13657
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -242,8 +242,6 @@ Dialogue: 0,0:06:13.75,0:06:17.25,Default,,0,0,0,,Quand nous nous reverrons,\Nno
 Dialogue: 0,0:06:17.46,0:06:19.59,Default,,0,0,0,,Pardon ?\N- Adieu.
 Dialogue: 0,0:06:19.75,0:06:21.05,Default,,0,0,0,,Attendez !
 Dialogue: 0,0:06:29.01,0:06:33.39,Default,,0,0,0,,Qu'est-ce que ça veut dire ?\NElle dit qu'on s'est rencontrés…
-Dialogue: 0,0:06:36.83,0:06:37.08,SignC2,,0,0,0,,{\blur1.2\be1\fsp2\frx2\fry0\frz5.324\t(70,250,\fscx73\fscy78)\move(586.5,631.5,585,633,65,232)\fscx72.5\fscy77.5}Date: 25/07/2010 12:26 \NDe: sg-epk@jtk92.x29.jp \NObjet: (Aucun objet) \NPièce jointe: IMV001
-Dialogue: 0,0:06:36.83,0:06:37.08,SignB2,,0,0,0,,{\blur1.2\fsp-2\be1\frx0\fry16\frz6.11\t(75,250,\fscx101\fscy101)\move(1128,213,1129.5,211.5,65,232)}Boîte mail
 Dialogue: 0,0:06:48.07,0:06:51.83,Default,,0,0,0,,Okarin…\N- Mayuri. Où étais-tu passée ?
 Dialogue: 0,0:06:51.95,0:06:55.79,Default,,0,0,0,,Je t'ai envoyé un message,\Nj'ai perdu mon Oopa en métal.
 Dialogue: 0,0:06:55.96,0:06:58.42,Default,,0,0,0,,J'avais même écrit mon nom dessus.
@@ -265,8 +263,10 @@ Dialogue: 0,0:08:40.69,0:08:42.19,Default,,0,0,0,,Okarin !
 Dialogue: 0,0:08:45.98,0:08:49.45,Default,,0,0,0,,Que se passe-t-il ?\NTu es pâle comme un linge.
 Dialogue: 0,0:08:49.90,0:08:52.57,Default,,0,0,0,,Quelqu'un est mort.
 Dialogue: 0,0:08:52.74,0:08:54.58,Default,,0,0,0,,Quoi ?\N- Au 8ème étage.
-Dialogue: 0,0:09:08.01,0:09:10.55,Default,,0,0,0,,QUELQU'UN A POIGNARDÉ MAKISE KURISU.
-Dialogue: 0,0:09:10.63,0:09:12.01,Default,,0,0,0,,ENVOI MESSAGE ?
+Dialogue: 0,0:09:08.02,0:09:10.65,Sign1,,0,0,0,,{\blur2\be1\fscx135\fscy137.5\pos(264,1023)\frz15.962\frx0\fry0}Quelqu'un a poignardé Kurisu Makise.
+Dialogue: 0,0:09:08.02,0:09:10.65,Sign1,,0,0,0,,{\blur2\pos(705,94.5)\be1\fscx135\fscy137.5\frz15.482\frx2\fry0}À:{\c&HFCFAFA&} Daru
+Dialogue: 0,0:09:08.02,0:09:10.65,Sign1,,0,0,0,,{\blur2\be1\fscx135\fscy137.5\frz15.974\c&HA19799&\pos(936,396)\frx358\fry358}Objet: {\c&HFBF2F7&}Grave
+Dialogue: 0,0:09:10.65,0:09:11.44,Sign1,,0,0,0,,{\blur2\be1\frz15.262\fscx181.25\fscy171.25\c&H686363&\pos(771,585)}Envoyer?
 Dialogue: 0,0:09:29.57,0:09:31.82,Default,,0,0,0,,Qu'est-ce qui…
 Dialogue: 0,0:09:50.22,0:09:52.26,Default,,0,0,0,,Que se passe-t-il ?
 Dialogue: 0,0:09:52.43,0:09:53.80,Default,,0,0,0,,Tutturu~ !
