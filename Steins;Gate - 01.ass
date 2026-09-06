@@ -14,9 +14,9 @@ Video File: G:/SteinsGate/01/sg01-video-encoded (1) (1).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 120
-Active Line: 129
-Video Position: 1550
+Scroll Position: 189
+Active Line: 199
+Video Position: 9515
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -242,6 +242,7 @@ Dialogue: 0,0:06:13.75,0:06:17.25,Default,,0,0,0,,Quand nous nous reverrons,\Nno
 Dialogue: 0,0:06:17.46,0:06:19.59,Default,,0,0,0,,Pardon ?\N- Adieu.
 Dialogue: 0,0:06:19.75,0:06:21.05,Default,,0,0,0,,Attendez !
 Dialogue: 0,0:06:29.01,0:06:33.39,Default,,0,0,0,,Qu'est-ce que ça veut dire ?\NElle dit qu'on s'est rencontrés…
+Dialogue: 0,0:06:36.83,0:06:37.08,SignC2,,0,0,0,,{\blur1.2\be1\fsp2\frx2\fry0\frz5.324\t(70,250,\fscx73\fscy78)\move(586.5,631.5,585,633,65,232)\fscx72.5\fscy77.5}Date: 25/07/2010 12:26 \NDe: sg-epk@jtk92.x29.jp \NObjet: (Aucun objet) \NPièce jointe: IMV001
 Dialogue: 0,0:06:48.07,0:06:51.83,Default,,0,0,0,,Okarin…\N- Mayuri. Où étais-tu passée ?
 Dialogue: 0,0:06:51.95,0:06:55.79,Default,,0,0,0,,Je t'ai envoyé un message,\Nj'ai perdu mon Oopa en métal.
 Dialogue: 0,0:06:55.96,0:06:58.42,Default,,0,0,0,,J'avais même écrit mon nom dessus.
