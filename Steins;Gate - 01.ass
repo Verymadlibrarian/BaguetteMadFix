@@ -191,7 +191,7 @@ Dialogue: 0,0:02:35.36,0:02:37.91,Default,,0,0,0,,Amis ou pas, je ne te prêtera
 Dialogue: 0,0:02:40.62,0:02:45.17,Default,,0,0,0,,Je vais te montrer\Nla dure réalité de la vie.
 Dialogue: 0,0:02:51.96,0:02:55.38,Default,,0,0,0,,Qu'est-ce que c'est ?\NIl n'est pas peint.
 Dialogue: 0,0:02:55.55,0:02:58.01,Default,,0,0,0,,Il est en métal.\N- Quoi ?
-Dialogue: 0,0:02:58.22,0:03:00.97,Default,,0,0,0,,Il est en métal.\NC'est un Oopa en métal.
+Dialogue: 0,0:02:58.22,0:03:00.97,Default,,0,0,0,,Il est en métal.\NC'est un Upa en métal.
 Dialogue: 0,0:03:01.18,0:03:03.89,Default,,0,0,0,,- C'est rare ?\N- Oui, très rare.
 Dialogue: 0,0:03:08.23,0:03:11.11,Default,,0,0,0,,Dans ce cas, tu peux l'avoir.
 Dialogue: 0,0:03:11.65,0:03:14.74,Default,,0,0,0,,- Tu es sûr, Okarin ?\N- C'est Hououin Kyouma.
@@ -200,7 +200,7 @@ Dialogue: 0,0:03:19.87,0:03:25.29,Default,,0,0,0,,La conférence du Dr Nakabachi
 Dialogue: 0,0:03:25.46,0:03:27.58,Default,,0,0,0,,Vous pouvez entrer librement.
 Dialogue: 0,0:03:30.88,0:03:36.88,Default,,0,0,0,,Le dossier explique la structure de base\Nd'une machine à remonter le temps.
 Dialogue: 0,0:03:37.05,0:03:41.26,Default,,0,0,0,,Je vais vous en expliquer\Nla théorie fondamentale.
-Dialogue: 0,0:03:44.02,0:03:47.56,Default,,0,0,0,,J'AI PERDU MON OOPA EN MÉTAL,\NJE PARS À SA RECHERCHE.
+Dialogue: 0,0:03:44.02,0:03:47.56,Default,,0,0,0,,J'AI PERDU MON UPA EN MÉTAL,\NJE PARS À SA RECHERCHE.
 Dialogue: 0,0:03:50.23,0:03:53.11,Default,,0,0,0,,La structure d'une machine\Nà remonter le temps.
 Dialogue: 0,0:03:59.87,0:04:03.62,Default,,0,0,0,,Docteur !\N- Quelque chose ne va pas ?
 Dialogue: 0,0:04:03.87,0:04:07.50,Default,,0,0,0,,Ça suffit.\NC'est votre théorie qui ne va pas.
@@ -243,11 +243,11 @@ Dialogue: 0,0:06:17.46,0:06:19.59,Default,,0,0,0,,Pardon ?\N- Adieu.
 Dialogue: 0,0:06:19.75,0:06:21.05,Default,,0,0,0,,Attendez !
 Dialogue: 0,0:06:29.01,0:06:33.39,Default,,0,0,0,,Qu'est-ce que ça veut dire ?\NElle dit qu'on s'est rencontrés…
 Dialogue: 0,0:06:48.07,0:06:51.83,Default,,0,0,0,,Okarin…\N- Mayuri. Où étais-tu passée ?
-Dialogue: 0,0:06:51.95,0:06:55.79,Default,,0,0,0,,Je t'ai envoyé un message,\Nj'ai perdu mon Oopa en métal.
+Dialogue: 0,0:06:51.95,0:06:55.79,Default,,0,0,0,,Je t'ai envoyé un message,\Nj'ai perdu mon Upa en métal.
 Dialogue: 0,0:06:55.96,0:06:58.42,Default,,0,0,0,,J'avais même écrit mon nom dessus.
 Dialogue: 0,0:06:58.59,0:07:00.67,Default,,0,0,0,,Tu l'as fait tomber ?\N- Je crois.
 Dialogue: 0,0:07:00.84,0:07:02.92,Default,,0,0,0,,Oublie ça.\N- Quoi ?
-Dialogue: 0,0:07:03.09,0:07:07.09,Default,,0,0,0,,Les Oopas en métal partent\Npour 10.000 yens aux enchères.
+Dialogue: 0,0:07:03.09,0:07:07.09,Default,,0,0,0,,Les Upas en métal partent\Npour 10.000 yens aux enchères.
 Dialogue: 0,0:07:07.26,0:07:10.43,Default,,0,0,0,,10.000 yens ?\N- Oui.
 Dialogue: 0,0:07:12.60,0:07:17.44,Default,,0,0,0,,Retrouve-le. Notre laboratoire\Nest fauché comme les blés.
 Dialogue: 0,0:07:17.60,0:07:20.32,Default,,0,0,0,,Mais je ne compte pas le vendre.
@@ -817,7 +817,34 @@ Dialogue: 0,0:21:36.38,0:21:40.01,Default,,0,0,0,,“Quelqu'un a poignardé Maki
 Dialogue: 0,0:21:36.98,0:21:37.60,Sign1,,0,0,0,,{\blur3\b1\bord1\3c&HEEE9E9&\fscx211.25\fscy138.75\pos(52.5,783)}a poignardé
 Dialogue: 0,0:21:37.60,0:21:38.05,Sign1,,0,0,0,,{\blur3\b1\bord1\3c&HEEE9E9&\fscx211.25\fscy138.75\pos(52.5,783)}Kurisu Makise."
 Dialogue: 0,0:21:40.17,0:21:43.47,Default,,0,0,0,,La semaine dernière.\NMa boîte d'envoi…
+Dialogue: 0,0:21:43.60,0:21:44.64,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRe: L'Upa...
+Dialogue: 0,0:21:43.60,0:21:44.64,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD5D7&}Daru \NOn y va!
+Dialogue: 0,0:21:43.60,0:21:44.64,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRegarde ça
+Dialogue: 0,0:21:44.64,0:21:44.81,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,304.5)}\NDaru \NOn y va!
+Dialogue: 0,0:21:44.64,0:21:44.81,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,586.5)}Mayuri \NRegarde ça
+Dialogue: 0,0:21:44.64,0:21:44.81,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,898.5)}Mayuri \NRe: Ne le\Nvends pas
 Dialogue: 0,0:21:44.72,0:21:47.14,Default,,0,0,0,,Je ne le trouve pas.\NQuel jour on est ?
+Dialogue: 0,0:21:44.81,0:21:44.98,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,264)}\NMayuri \NRegarde ça
+Dialogue: 0,0:21:44.81,0:21:44.98,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,594)}Mayuri \NRe: Ne le\Nvends pas
+Dialogue: 0,0:21:44.81,0:21:44.98,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,865.5)}Faris \NRe: \NProphétie de \Nla résurrection
+Dialogue: 0,0:21:44.98,0:21:45.14,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,256.5)}\NMayuri \NRe: Ne le\Nvends pas
+Dialogue: 0,0:21:44.98,0:21:45.14,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,558)}Faris \NRe: \NProphétie de \Nla résurrection
+Dialogue: 0,0:21:44.98,0:21:45.14,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,877.5)}Luka \NRe: \NJ'ai fait\Ndes gâteaux
+Dialogue: 0,0:21:45.14,0:21:46.48,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,231)}\NFaris \NRe: \NProphétie de \Nla résurrection
+Dialogue: 0,0:21:45.14,0:21:46.48,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,561)}Luka \NRe: \NJ'ai fait\Ndes gâteaux
+Dialogue: 0,0:21:45.14,0:21:46.48,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,915)}Daru \NRe: \N(Aucun objet)
+Dialogue: 0,0:21:46.48,0:21:46.64,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,256.5)}\NMayuri \NRe: Ne le\Nvends pas
+Dialogue: 0,0:21:46.48,0:21:46.64,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,558)}Faris \NRe: \NProphétie de \Nla résurrection
+Dialogue: 0,0:21:46.48,0:21:46.64,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,877.5)}Luka \NRe: \NJ'ai fait\Ndes gâteaux
+Dialogue: 0,0:21:46.64,0:21:46.81,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,264)}\NMayuri \NRegarde ça
+Dialogue: 0,0:21:46.64,0:21:46.81,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,594)}Mayuri \NRe: Ne le\Nvends pas
+Dialogue: 0,0:21:46.64,0:21:46.81,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,865.5)}Faris \NRe: \NProphétie de \Nla résurrection
+Dialogue: 0,0:21:46.81,0:21:46.98,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,304.5)}\NDaru \NOn y va!
+Dialogue: 0,0:21:46.81,0:21:46.98,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,586.5)}Mayuri \NRegarde ça
+Dialogue: 0,0:21:46.81,0:21:46.98,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\blur1.5\fs45\c&HDBD5D7&\pos(196.5,898.5)}Mayuri \NRe: Ne le\Nvends pas
+Dialogue: 0,0:21:46.98,0:21:47.31,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,312)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRe: L'Upa...
+Dialogue: 0,0:21:46.98,0:21:47.31,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,628.5)\blur1.5\fs45\c&HDBD5D7&}Daru \NOn y va!
+Dialogue: 0,0:21:46.98,0:21:47.31,Sign1,SIGNS MAKE NO SENSE!,0,0,0,,{\pos(196.5,895.5)\blur1.5\fs45\c&HDBD5D7&}Mayuri \NRegarde ça
 Dialogue: 0,0:21:47.56,0:21:49.81,Default,,0,0,0,,De quoi tu parles ?
 Dialogue: 0,0:21:51.19,0:21:54.69,Default,,0,0,0,,Qu'y a-t-il ?\N- Mon e-mail a été envoyé dans le passé.
 Dialogue: 0,0:21:54.81,0:21:56.15,Default,,0,0,0,,Quoi ?
