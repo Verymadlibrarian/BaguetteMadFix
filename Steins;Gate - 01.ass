@@ -679,6 +679,9 @@ Dialogue: 0,0:12:56.65,0:12:57.86,Default,,0,0,0,,Voilà l'équipe.
 Dialogue: 0,0:12:58.53,0:13:02.07,Default,,0,0,0,,Tu ferais mieux de laisser tomber.
 Dialogue: 0,0:13:02.24,0:13:05.91,Default,,0,0,0,,N'en attends pas trop\Nd'un jeu en soldes à 500 yens.
 Dialogue: 0,0:13:06.08,0:13:09.83,Default,,0,0,0,,Écoute bien. Pour venir au labo,\Ntu descends Chuo-dori.
+Dialogue: 0,0:13:06.88,0:13:17.09,SignE,,0,0,0,,{\be1\c&H767973&\3c&H767973&\move(592.5,172.5,592.5,555,0,10198)}Labo des {\3c&H4A4C46&\c&H656761&}gadgets {\c&H4B4D4A&}futuristes
+Dialogue: 0,0:13:06.88,0:13:17.09,SignH,,0,0,0,,{\be1\fscx73.00\fscy75.00\c&H767A70&\move(841.5,1023.5,841.5,1181,0,4317)}Atelier
+Dialogue: 0,0:13:06.88,0:13:17.09,SignH,,0,0,0,,{\be1\fscx97.5\fscy96.25\move(1179,1056,1179,1212,0,4109)}TV\NCRT
 Dialogue: 0,0:13:10.00,0:13:13.25,Default,,0,0,0,,À la gare de Suehirocho,\Ntu prends Kuramae-dori.
 Dialogue: 0,0:13:13.42,0:13:16.96,Default,,0,0,0,,C'est le bâtiment multifonction,\Njuste avant le feu.
 Dialogue: 0,0:13:17.59,0:13:22.80,Default,,0,0,0,,Le but de notre labo est de transformer\Nla structure mondiale du pouvoir.
