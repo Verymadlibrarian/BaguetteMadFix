@@ -735,7 +735,6 @@ Dialogue: 0,0:16:17.77,0:16:21.19,Default,,0,0,0,,Daru, prends la télé.\N- Cou
 Dialogue: 0,0:16:21.36,0:16:22.98,Default,,0,0,0,,Il fait chaud dehors.
 Dialogue: 0,0:16:23.15,0:16:26.36,Default,,0,0,0,,C'est pas parce qu'on est gros\Nqu'on est fort.
 Dialogue: 0,0:16:28.15,0:16:29.41,Default,,0,0,0,,Y'a pas de quoi être fier.
-Dialogue: 0,0:16:30.41,0:16:31.53,Default,,0,0,0,,MAGASIN DE TV
 Dialogue: 0,0:16:32.12,0:16:34.54,Default,,0,0,0,,M. Braun…
 Dialogue: 0,0:16:34.70,0:16:37.87,Default,,0,0,0,,Je t'ai déjà dit\Nde m'appeler Tennoji.
 Dialogue: 0,0:16:39.29,0:16:42.50,Default,,0,0,0,,Pourriez-vous réparer ceci\Nimmédiatement ?
@@ -809,8 +808,14 @@ Dialogue: 0,0:21:15.86,0:21:19.36,Default,,0,0,0,,Donne-moi ça.\N- Tu violes ma
 Dialogue: 0,0:21:19.53,0:21:23.74,Default,,0,0,0,,Je t'ai dit par e-mail\Nque Makise Kurisu avait été poignardée.
 Dialogue: 0,0:21:23.91,0:21:27.50,Default,,0,0,0,,Celui de la semaine dernière ?\N- La semaine dernière ?
 Dialogue: 0,0:21:27.62,0:21:32.46,Default,,0,0,0,,Il était en trois parties.\NJ'ai cru que c'était un spam. Tu vois ?
+Dialogue: 0,0:21:32.64,0:21:36.35,Sign1,,0,0,0,,{\blur2\be1\bord1\3c&HEEE9E9&\fscx170\fscy163.75\pos(1251,123)}Okabe Rintaro \N\N{\blur2\bord0}(Aucun objet)
+Dialogue: 0,0:21:32.64,0:21:36.35,Sign1,,0,0,0,,{\blur2\be1\bord1\3c&HEEE9E9&\fscx170\fscy163.75\pos(1251,496.5)}Okabe Rintaro \N\N{\blur2\bord0}(Aucun objet)
+Dialogue: 0,0:21:32.64,0:21:36.35,Sign1,,0,0,0,,{\blur2\be1\bord1\3c&HEEE9E9&\fscx170\fscy163.75\pos(1251,855)}Okabe Rintaro \N\N{\blur2\bord0}(Aucun objet)
 Dialogue: 0,0:21:33.00,0:21:36.17,Default,,0,0,0,,Reçu le 23 juillet à 12H56.
+Dialogue: 0,0:21:36.35,0:21:36.98,Sign1,,0,0,0,,{\blur3\b1\bord1\3c&HEEE9E9&\fscx211.25\fscy138.75\pos(52.5,783)}"Quelqu'un
 Dialogue: 0,0:21:36.38,0:21:40.01,Default,,0,0,0,,“Quelqu'un a poignardé Makise Kurisu.”\N- Tu vois ?
+Dialogue: 0,0:21:36.98,0:21:37.60,Sign1,,0,0,0,,{\blur3\b1\bord1\3c&HEEE9E9&\fscx211.25\fscy138.75\pos(52.5,783)}a poignardé
+Dialogue: 0,0:21:37.60,0:21:38.05,Sign1,,0,0,0,,{\blur3\b1\bord1\3c&HEEE9E9&\fscx211.25\fscy138.75\pos(52.5,783)}Kurisu Makise."
 Dialogue: 0,0:21:40.17,0:21:43.47,Default,,0,0,0,,La semaine dernière.\NMa boîte d'envoi…
 Dialogue: 0,0:21:44.72,0:21:47.14,Default,,0,0,0,,Je ne le trouve pas.\NQuel jour on est ?
 Dialogue: 0,0:21:47.56,0:21:49.81,Default,,0,0,0,,De quoi tu parles ?
